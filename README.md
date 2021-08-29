@@ -1,0 +1,1 @@
+## [YooMoney](https://yoomoney.ru/)
