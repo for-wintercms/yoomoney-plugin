@@ -11,6 +11,11 @@ use System\Classes\PluginBase;
 class Plugin extends PluginBase
 {
     /**
+     * @var array Plugin dependencies
+     */
+    public $require = ['DS.DPay'];
+
+    /**
      * Returns information about this plugin.
      *
      * @return array
