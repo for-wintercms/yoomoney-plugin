@@ -23,8 +23,8 @@ class Plugin extends PluginBase
     public function pluginDetails()
     {
         return [
-            'name'        => 'YooMoney',
-            'description' => 'YooMoney',
+            'name'        => 'YooMoney API',
+            'description' => 'YooMoney API plugin',
             'author'      => 'DS',
             'icon'        => 'icon-leaf'
         ];
